@@ -1,4 +1,4 @@
-package ru.vadim.lambda;
+package ru.vadim.sec04.lambda;
 
 @FunctionalInterface
 public interface GreetingService {

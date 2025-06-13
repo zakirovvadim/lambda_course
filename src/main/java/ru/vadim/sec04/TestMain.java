@@ -1,8 +1,6 @@
-package ru.vadim;
+package ru.vadim.sec04;
 
-import ru.vadim.lambda.GreetingService;
-
-import java.util.Locale;
+import ru.vadim.sec04.lambda.GreetingService;
 /*
 ### Конспект: Высокоуровневые функции (Higher-Order Functions)
 
